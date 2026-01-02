@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="SmartTomcatPro.exploded-war" name="registration-system:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/registration_system_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="/registration-system" />
+        </element>
+      </element>
+      <element id="webapp-facet-resources" />
+    </root>
+  </artifact>
+</component>
